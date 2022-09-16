@@ -1,2 +1,2 @@
-stone-scissors-paper---game
+Game - Stone-Scissors-Paper
 --------------------------------------
